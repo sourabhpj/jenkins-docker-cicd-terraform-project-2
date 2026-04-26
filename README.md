@@ -1,5 +1,5 @@
 # jenkins-cicd-2
-this is jenkins cicd project 2
+Multi-server CI/CD Automation: Jenkins,Docker & AWS (Two-Tier Architecture).
 ## Project Documentation: Multi-Server CI/CD Automation
 
 # 1. Architectural Overview
